@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-for-deaf",
+  "private_key_id": "5ca65dcc58764ac0e1d3468e168ab15e4430536d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDdkYJxbf8rp1pi\n7xAB5KU/xYX3fdieyTLw/Jv0TjsHA9apzAlx5i5x2/IbfX0PjEZCTbSwN+tCqrUn\nVdMOStki56SuyqElWJes9RPZGRSM1myHPc1DFz5H57gvxAhlIEskX0NQsMfQntm1\noDVnAb6ztMzokgmo5HWoLgzBO6ScdM04p+3LTfYM6Wrigd1GBq0rgxUghzAg2dF4\nJ2+8DR7sujlvZPyTZ8TEOZANIbxkD+kDyd3e0HGkKb9Mdaan3/KmRtoxZ2jw9o9m\nB0LDmsiB2RU9yJ0KaAiPXUXVfDdwrRXO2rysq0FmIE4rzmHtbrmRVvCjRiG6s9AK\n81RnlTRHAgMBAAECggEAERmj2aFFqlbWMQCGWb8NyegyuLErwMWCevrkBmzrPVVc\ngepPaEz9lKgG/Xwn5MVMvt1Ebr1CGPkX1htXmKjKLVl3ak4VNc6qlhysFXtMDLqX\n0bBBYUYv9li57GXSyAtAAWSgy195bG52GwBsXrDRyQjRL7nlqPVI51v2fAtgXvq4\nAMsz4NczOqFmRt5/R0Bdg2mP9xMfeuii1mmcUcU3ttTzIlyMjun6qDr7WnmvbfWM\nQrCKr/NOhEeQFLl2C13moiA7lkAbbVCIqf6kfInE6zIlnwTnkuA5qmOx7WxWqJLc\nL4rFWpk71j5JXE6nnNhkALGyFkBoGAkT+k0EOBunwQKBgQDvBN8PZjcBeMuBJ6LQ\nvVIP/UVjs5onyWmoYYzdpTd+6XTu0JmPdwALhls5qmTOBZHVdZcISO1pJM7XggSE\n8dr9h6h4Ukgxf+jlLNoZojn2KO/gEuBmk6ndkzGfjb3QZiIepUrd+kF5Scvuc3Kh\nV7QrLukKmAUQw+HDlqZ7GFfR0QKBgQDtT0HMrZ0tX/QpfRWaKV5uoMYtSymjhOHz\nfJ3fwr1BdyP9a307vW2dzIOPGX/LqqqA3gZtgB+kz5+ErRwQKDRusL6wGDqQWNzG\nIol0SAiUjP0Br5ZkbnPXPX5Vv8i5MLq0ovwI8KMnl9GcOR3oSmqlaLh2ZQQ2S0jj\nFZqQXrvSlwKBgEoBtB9MgtON11USNLN1KyeQQB/yyFRxZKmiKr+mHFzLZE1dgW6O\nZhErdKuSOswfpVv2oOEL05ausuy/cS7IxAmkK2G1+Gx7Ml1jWdR+CnxRiJRUw+5+\n4iWdIcxJUvBn70CV5Wx9xDANzXrzfBbA1SRZzgZds5PRUuIAj2Ol0etBAoGAI9rr\nyC8bJnXvAC3EC8zgVbq49rL6kZhMQ2u6tspHqhKEP4/0Fgii/UqfPgnOQ0mABYSG\nWBkZrt8n7PXy3YYVlfvic9zVTGYAxXcGaalQkpFS0ORkxrvhiM3jvrUBcOmp7A0M\nI5WoMR1BMGd421YTEvblmA3fOwzY8GadOd72ZfUCgYEApj6VBhleyu0pNbLCs78a\nk0mjdjfF0ORegvrcpwZwzV+BTbGpwErtuF21QVe8XXeodpAVXHW3xNA9HdoZzWMZ\nvDhA6BZPqThTXd67VKM/WbPgo6C8Wi/qr/lLdqN/EzR6gABlrHWkAFA7KRD+M5MP\npgCKhiIh11S38CkuZqEwHww=\n-----END PRIVATE KEY-----\n",
+  "client_email": "transcribe-deaf@my-project-for-deaf.iam.gserviceaccount.com",
+  "client_id": "111244274269024252536",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/transcribe-deaf%40my-project-for-deaf.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

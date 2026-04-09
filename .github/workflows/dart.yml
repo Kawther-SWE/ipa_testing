@@ -15,7 +15,7 @@ jobs:
           channel: 'stable'
           architecture: x64
       - run: flutter pub get
-      
+        working-directory: ios
 
       - run: pod repo update
         working-directory: ios
